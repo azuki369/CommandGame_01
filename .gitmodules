@@ -1,0 +1,3 @@
+[submodule "Assets/Submodules/KyLibrary"]
+	path = Assets/Submodules/KyLibrary
+	url = https://github.com/azuki369/KYUnityLibrary.git
